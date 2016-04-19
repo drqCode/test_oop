@@ -5,7 +5,7 @@ responsible for taking the user’s location and returning a list of the three c
 
 ## Input
 
-The coffee shop list is a comma­separated file with rows of the following form:
+The coffee shop list is a comma separated file with rows of the following form:
 `Name,Y Coordinate,X Coordinate`
 
 The quality of data in this list of coffee shops may vary.  Malformed entries should cause the 
